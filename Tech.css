@@ -532,7 +532,7 @@ footer {
   background-color: darkred;
 }
 
-.Kavya {
+.Mahitha {
     background-color: #0b0a0a;
     color: #fff;
     padding: 10px 20px;
@@ -544,13 +544,13 @@ footer {
       border-block-start:1px solid #555;
 }
 
-.Kavya .text {
+.Mahitha .text {
     text-align: left;
     /* flex-grow: 1; */
     
 }
 
-.Kavya .social-icons {
+.Mahitha .social-icons {
     display: flex;
     gap: 15px;
 }
